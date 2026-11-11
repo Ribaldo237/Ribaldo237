@@ -1,10 +1,10 @@
-# Hello! I'm Renato Freitas 👋
+# Hello! I'm Renato Freitas 
 
-💻 I'm a Computer Science student and IT intern, passionate about technology and programming.
+I'm a Computer Science student and IT intern, passionate about technology and programming.
 
-🎯 My goal is to become a skilled software developer and cybersecurity professional.
+My goal is to become a skilled software developer and cybersecurity professional.
 
-### 🚀 Technologies & Tools
+### Technologies & Tools
 
 <div style="display: inline_block">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,7 +17,7 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-### 🌱 Currently Learning
+### Currently Learning
 - C programming
 - Git and GitHub
 - Computer Networks
