@@ -23,12 +23,12 @@ My goal is to become a skilled software developer and cybersecurity professional
 - Computer Networks
 - Cybersecurity Fundamentals
 
-### 🔭 Current Projects
+### Current Projects
 - Developing a CHIP-8 emulator in C.
 
-### ⚡ Interests
+### Interests
 - Software Development
 - Cybersecurity
 - Computer Networks
 - Operating Systems
-- Technology and Innovation
+- Technology
